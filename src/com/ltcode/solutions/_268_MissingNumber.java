@@ -10,7 +10,7 @@ import java.util.stream.IntStream;
  *
  * Follow up: Could you implement a solution using only O(1) extra space complexity and O(n) runtime complexity?
  */
-public class _268_Missing_Number {
+public class _268_MissingNumber {
     /**
      * Using sum
      */

@@ -11,7 +11,7 @@ package com.ltcode.solutions;
  * Input: s = "rat", t = "car"
  * Output: false
  */
-public class _242_Valid_Anagram {
+public class _242_ValidAnagram {
     public boolean isAnagram(String s, String t) {
         if (s == null || t == null || s.length() != t.length()) {
             return false;

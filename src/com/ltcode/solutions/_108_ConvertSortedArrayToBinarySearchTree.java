@@ -9,7 +9,7 @@ import com.ltcode.nodes.TreeNode;
  * A height-balanced binary tree is a binary tree in which the depth of the two subtrees of every node
  * never differs by more than one.
  */
-public class _108_Convert_Sorted_Array_To_Binary_Search_Tree {
+public class _108_ConvertSortedArrayToBinarySearchTree {
     public TreeNode sortedArrayToBST(int[] nums) {
         if (nums == null || nums.length == 0) {
             return null;
